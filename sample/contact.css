@@ -1,0 +1,31 @@
+body {
+
+background-color:wheat;
+
+}
+
+p {
+
+padding:15px 30px;
+border:10px 20px;
+margin: 10px 30px;
+font-weight:cursive;
+color:white;
+background-color:coral;
+}
+
+img {
+
+width:800px;
+height:300px;
+border:40px 1000px;
+padding: 20px 250px;
+}
+
+a {
+
+padding:10px 15px;
+color:tomato;
+}
+
+
