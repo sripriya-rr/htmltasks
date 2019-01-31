@@ -1,0 +1,90 @@
+body {
+
+background-image:url("https://i0.wp.com/www.healthline.com/hlcmsresource/images/AN_images/healthy-post-workout-meal-1296x728.jpg?w=1155&h=1528");
+background-size:cover;
+background-repeat:no-repeat;
+font-family:Impact;
+color:white;
+font-weight:bold;
+font-size:19px;
+
+}
+
+ul {
+
+margin:0px;
+padding:0px;
+list-style:none;
+border-top:2px;
+}
+
+ul li {
+
+float:left;
+width: 645px;
+height:50px;
+background-color:black;
+opacity:0.75;
+line-height:45px;
+text-align:center;
+border:10px 5px;
+margin-right:1px;
+
+}
+
+ul li a {
+
+text-decoration:none;
+color:cornsilk;
+display:block;
+}
+
+ul li a:hover {
+
+background-color:orangered;
+
+}
+
+
+ul li ul li {
+
+display:none;
+
+
+}
+
+ul li:hover ul li {
+display:block;
+
+
+}
+
+ul li ul:hover {
+
+height:400px;
+overflow-y:scroll;
+overflow-x:hidden;
+}
+
+h1 {
+
+background-color:coral;
+
+text-align:center;
+color:antiquewhite;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
