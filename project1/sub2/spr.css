@@ -149,7 +149,7 @@ z-index:-1;
 
 }
 
-#i1:checked ~ #one, #i2:checked ~ #two, #i3:checked ~ #three, #i4:checked ~ #four, #i5:checked ~ #five, #i6:checked ~ #six, #i7:checked ~ #seven, #i8:checked ~ #eight, #i9:checked ~ #nine, #i10:checked ~ #ten {
+#i1:checked ~ #one, #i2:checked ~ #two, #i3:checked ~ #three, #i4:checked ~ #four, #i5:checked ~ #five, #i6:checked ~ #six {
 
 z-index:9;
 
@@ -161,11 +161,8 @@ z-index:9;
 #i3:checked ~ .nav #dot3 ,
 #i4:checked ~ .nav #dot4 ,
 #i5:checked ~ .nav #dot5 ,
-#i6:checked ~ .nav #dot6 ,
-#i7:checked ~ .nav #dot7 ,
-#i8:checked ~ .nav #dot8 ,
-#i9:checked ~ .nav #dot9 ,
-#i10:checked ~ .nav #dot10 {
+#i6:checked ~ .nav #dot6 
+ {
 
 background:white;
 }
